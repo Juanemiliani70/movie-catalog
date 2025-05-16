@@ -1,4 +1,5 @@
-# Movie Catalog App (Tkinter + SQLite3)
+ # movie-catalog (Catálogo de Películas)
+(Tkinter + SQLite3)
 
 Una aplicación simple de catálogo de películas desarrollada con Tkinter y SQLite3. Esta app permite a los usuarios gestionar un catálogo de películas, agregando, editando y eliminando películas, mientras almacena los datos en una base de datos SQLite.
 
